@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maven_task.iml" filepath="$PROJECT_DIR$/maven_task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_task_dao/ssm_task_dao.iml" filepath="$PROJECT_DIR$/ssm_task_dao/ssm_task_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_task_domain/ssm_task_domain.iml" filepath="$PROJECT_DIR$/ssm_task_domain/ssm_task_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_task_service/ssm_task_service.iml" filepath="$PROJECT_DIR$/ssm_task_service/ssm_task_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_task_web/ssm_task_web.iml" filepath="$PROJECT_DIR$/ssm_task_web/ssm_task_web.iml" />
+    </modules>
+  </component>
+</project>
